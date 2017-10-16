@@ -1,10 +1,7 @@
 from __future__ import print_function
 import mxnet as mx
 import mxnet.ndarray as nd
-from mxnet import autograd
-from mxnet import gluon
-import matplotlib.pyplot as plt
-
+from mxnet import autograd, gluon
 
 
 # context to tell gluon where to do most of the computation. Chooose between CPU and GPU.
