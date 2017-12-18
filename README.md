@@ -4,3 +4,6 @@ The Gluon API specification is an effort to improve speed, flexibility, and acce
 To use the gluon package for python, download and install mxnet: 
 
 pip install mxnet --pre --user
+
+
+https://mxnet.incubator.apache.org/api/python/gluon.html
