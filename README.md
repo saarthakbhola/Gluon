@@ -7,3 +7,6 @@ pip install mxnet --pre --user
 
 
 https://mxnet.incubator.apache.org/api/python/gluon.html
+
+
+Update : Will add Text Classification based on Gluon soon.
